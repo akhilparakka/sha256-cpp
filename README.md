@@ -57,5 +57,5 @@ You will be prompted to enter a string. The application will then output the SHA
 $ ./sha256
 Enter input for hashing: 
 Hello, World!
-SHA-256("Hello, World!") = a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b1ee42b7d8ddda8e2
+SHA-256("Hello, World!") = dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f
 ```
